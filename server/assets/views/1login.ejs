@@ -1,10 +1,30 @@
-<div id="login" v-cloak>
-  <div class="container">
-    <h1 class="text-center">Sign in to your account</h1>
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+
 <% include partials/head.ejs %>
-    <div class="login-form-container">
-      <hr/>
- <script>
+
+
+    <body>
+
+        <style type="text/css">
+            body {
+                background: #000000;
+            }
+            
+            body>.grid {
+                height: 100%;
+            }
+            
+            .image {
+                margin-top: -100px;
+            }
+            
+            .column {
+                max-width: 450px;
+            }
+        </style>
+        <script>
             $(document).ready(function() {
                 $('#hostname').val(window.location.hostname);
                 $('.ui.form').form({
@@ -62,3 +82,5 @@
             </div>
         </div>
     </body>
+
+</html>
