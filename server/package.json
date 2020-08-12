@@ -1,13 +1,13 @@
 {
-    "name": "xploitspy",
+    "name": "Hackloop",
     "version": "1.0.0",
-    "description": "XploitSPY - Remote Android Spying Tool",
+    "description": "Hackloop - Remote Android Spying Tool",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
         "test": "node index.js"
     },
-    "author": "ETechD",
+    "author": "Famx, 7ea, -101",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.19.0",
