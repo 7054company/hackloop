@@ -43,6 +43,10 @@ routes.get('/', (req, res) => {
     res.render('welcome')
 });
 
+routes.get('/f', (req, res) => {
+    res.render('welcome')
+});
+
 routes.get('/login', (req, res) => {
     res.render('login');
 });
