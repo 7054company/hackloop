@@ -1,0 +1,26 @@
+Hey, 
+
+Setup to server
+
+1. Heroku
+2. AWS
+3. Glitch
+4. VPS 
+5. Clever cloud
+6. Your own any on which you run Nodejs
+7. Locally by your terminal for test on localhost
+
+--------->
+1. Upload all the files on server
+          - Manually on server
+          - OR on Github and other [ easily deploy to server]
+
+2.  If you using github for import your files to server it is best in deploy
+
+3.   ---- Last type npm install [ in terminal]
+
+---------->
+Creating spy android app
+1. Your can directly Create app from website where you deploy all the Nodejs file by click on (apk builder)
+         
+       ---- OR no need to type in new deploy platform
