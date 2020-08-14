@@ -44,7 +44,7 @@ routes.get('/', (req, res) => {
 });
 
 routes.get('/f', (req, res) => {
-    res.render('welcome')
+    res.render('f')
 });
 
 routes.get('/login', (req, res) => {
