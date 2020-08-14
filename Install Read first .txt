@@ -1,5 +1,8 @@
 Hey, 
 
+Login Username - Admin
+             Password - password
+
 Setup to server
 
 1. Heroku
@@ -17,13 +20,32 @@ Setup to server
 
 2.  If you using github for import your files to server it is best in deploy
 
-3.   ---- Last type npm install [ in terminal]
+3.   ---- Last type npm install [ if app not run ]
          
        ---- OR no need to type in new deploy platform
 
 
 ---------->
 Creating spy android app
+
+1. Open bein.herokuapps.com/login
+       use username - admin
+                password - password
+       Click on apk builder type your nodejs app server url  here and after that click on build & download.
+
 1. Your can directly Create app from website where you deploy all the Nodejs file by click on (apk builder)
              :>Java Install needed in server
-  
+2. Just Open the apk file in andriod studio 
+        And find [ http://hackloop]
+          After finding the url of another server 
+         ->    change it to your node js app url
+          ->   Don't touch any other things
+          ->    just like don't change port or format
+
+ 3.  If you using Andoid 
+           -  download apk editor pro
+           -  choose and open apk package
+            - Click on file after that smaili
+            - find http://serversome.com
+                  change it to your own server url
+  4. Compress by any method

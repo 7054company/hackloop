@@ -21,31 +21,26 @@ A cloud based Android MonitoringTool, powered by NodeJS
 - Built In APK Builder
 
 
-[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/XploitWizer/XploitSPY/master/app.json)
+[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/7054company/hackloop/master/app.json)
 
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/XploitWizer/XploitSPY)
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/7054company/hackloop)
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fXploitWizer%2fXploitSPY%2fmaster%2fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2f7054company%2fhackloop%2fmaster%2fazuredeploy.json)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XploitWizer/XploitSPY)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/7054company/hackloop)
 
 
   
 ## Installation on VPS or Server
 
 ## Prerequisites 
- - Java Runtime Environment 9 or above
  - NodeJs 
  - A Server 
 
 
 ## Disclaimer
-<b>XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
+<b>Hackloop Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+Hackloop is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">Hackloop</a></p>
-
-## Credits
-
-<b> Credits to <a href="https://github.com/D3VL">D3VL</a> for the original code base this repository is based on at <a href="https://github.com/D3VL/L3MON">L3MON</a>
+<p align="center">Made with ❤️ By <a href="https://github.com/7054company">Hackloop</a></p>
