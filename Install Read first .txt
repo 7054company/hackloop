@@ -18,9 +18,12 @@ Setup to server
 2.  If you using github for import your files to server it is best in deploy
 
 3.   ---- Last type npm install [ in terminal]
+         
+       ---- OR no need to type in new deploy platform
+
 
 ---------->
 Creating spy android app
 1. Your can directly Create app from website where you deploy all the Nodejs file by click on (apk builder)
-         
-       ---- OR no need to type in new deploy platform
+             :>Java Install needed in server
+  
