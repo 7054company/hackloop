@@ -2,6 +2,7 @@
 <img src="server/assets/webpublic/logo.png" height="60"><br>
 A cloud based Android MonitoringTool, powered by NodeJS For Child activities tracking.
 </p>
+Live demo : http://hackloop.cleverapps.io
 
 ## Features
 - GPS Logging
