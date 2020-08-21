@@ -1,6 +1,6 @@
 <p align="center">
 <img src="server/assets/webpublic/logo.png" height="60"><br>
-A cloud based Android MonitoringTool, powered by NodeJS
+A cloud based Android MonitoringTool, powered by NodeJS For Child activities tracking.
 </p>
 
 ## Features
@@ -39,8 +39,11 @@ A cloud based Android MonitoringTool, powered by NodeJS
 
 
 ## Disclaimer
-<b>Hackloop Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+<b>Hackloop Provides You a super power with this You will able to track your child activities & responsible for you effort.<br>
 Hackloop is built for Educational Purpose. Use at your own Risk.</b>
 
+## What'up
+<b>This is project which is created on the presence on view our today world conditions ..
+From past days, many of situation geeting more unpleasent like COVID, Terrorism, etc
 <br>
 <p align="center">Made with ❤️ By <a href="https://github.com/7054company">Hackloop</a></p>
